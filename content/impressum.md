@@ -8,7 +8,7 @@ Vorsitzender: Niklas Pfister
 1\. stellv. Vorsitzender: Jakob Löw  
 2\. stellv. Vorsitzender: Hannes Portune  
 Schriftführer: Christian Plass  
-Kassier: Dennis Denk
+Kassier: Georg Nortmeyer
 
 E-Mail: {{< cloakemail "vorstand@bn-paf.de" >}}  
 Telefon: {{< cloakemail address="08441 4980299" protocol="tel" >}}  
