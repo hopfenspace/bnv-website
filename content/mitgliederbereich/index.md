@@ -6,7 +6,9 @@
 - [Zusatzblatt Familienmitglieder](zusatzblatt_familienmitglieder.pdf)
 - [Änderungsantrag](./aenderungsantrag.pdf)
 
-## Postadresse:
+## Kontakt
+
+Anträge gerne per Email an {{< cloakemail "vorstand@bn-paf.de" >}} oder alternativ per Post:
 
 Bürgernetz Landkreis Pfaffenhofen e. V.  
 c/o Niklas Pfister  

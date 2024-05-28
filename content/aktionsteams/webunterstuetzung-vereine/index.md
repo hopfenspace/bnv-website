@@ -23,5 +23,5 @@ Wir helfen auch gern (wenn wir können) bei anderen Fragen zum PC oder zum Inter
 
 Ansprechpartner: Uwe Urra
 
-Sie finden uns fast jeden Montag von 10 bis 12 Uhr in den Bürgernetzräumen, Sparkassenplatz 11, 85276 Pfaffenhofen
+Sie finden uns fast jeden Montag von 10 bis 12 Uhr in den Bürgernetzräumen, Sparkassenplatz 11, 85276 Pfaffenhofen.
 Fällt das Treffen aus, so wird dies auf der [Startseite](/) angekündigt.
