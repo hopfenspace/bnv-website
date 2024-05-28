@@ -10,7 +10,7 @@ Vorsitzender: Niklas Pfister
 Schriftführer: Christian Plass  
 Kassier: Dennis Denk
 
-E-Mail: {{< cloakemail "vorstand@bn-paf.de" >}}
+E-Mail: {{< cloakemail "vorstand@bn-paf.de" >}}  
 Telefon: {{< cloakemail address="08441 4980299" protocol="tel" >}}  
 Bankverbindung (IBAN): DE42721516500000163170  
 Bank: Sparkasse Pfaffenhofen
