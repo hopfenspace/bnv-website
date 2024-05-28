@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="flex w-full justify-center p-6 pt-20">
+  <div class="grid gap-24 lg:grid-cols-[1fr_20rem]">
+    <div class="prose dark:prose-invert">{{ .Content }}</div>
+    {{ with resources.Get "img/coding-isometric-03.png" }}
+    <img alt="symbolbild" src="{{ .RelPermalink }}" class="hidden lg:block" />
+    {{ end }}
+  </div>
+</div>
+{{ end }}
