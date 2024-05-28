@@ -7,7 +7,7 @@ Typische Aktivitäten sind Basteleien, Do-it-yourself Workshops, Präsentationen
 Teilen von Wissen und gemeinsames Lernen sowie die Organisation von Partys und Spielen. Hackerspaces stellen hierfür
 eine Infrastruktur bereit, vor allem Strom, Internetzugang, Netzwerkverbindungen, Werkzeuge und Getränke
 (meist Mate oder Spezi). Wer nach einem Hackerspace in Pfaffenhofen sucht, Interesse hat sich mit 
-Technikinteressierten auszutauschen und an verschiedenen Hard- & Softwareprojekten teilzunehmen wendet sich an 
-kontakt@hopfen.space
+Technikinteressierten auszutauschen und an verschiedenen Hard- & Softwareprojekten teilzunehmen wendet sich 
+an {{< cloakemail "kontakt@hopfen.space" >}}
 
 ![Symbolbild vom Hackerspace](./bunker-example-picture.jpg)

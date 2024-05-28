@@ -20,4 +20,4 @@ Altersbeschränkungen.
 Nicht erlaubt ist Politik, ansonsten kann jeder Bürger, auch jeder Verein oder gemeinnützige Institution an diesem 
 Projekt mitarbeiten.  
 … und jetzt meldet euch bitte so zahlreich wie möglich, wird brauchen viele, viele Helfer. 
-Per Mail an josef.postel@bn-paf.de oder auch einfach anrufen unter 0170 3800858.
+Per Mail an {{< cloakemail "josef.postel@bn-paf.de" >}} oder auch einfach anrufen unter 0170 3800858.

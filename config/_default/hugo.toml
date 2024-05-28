@@ -1,3 +1,4 @@
 baseURL = 'https://bn-paf.de/'
 languageCode = 'de-de'
 title = 'Bürgernetz Pfaffenhofen'
+theme = ["hugo-cloak-email"]
