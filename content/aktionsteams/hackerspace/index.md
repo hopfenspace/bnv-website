@@ -9,3 +9,5 @@ eine Infrastruktur bereit, vor allem Strom, Internetzugang, Netzwerkverbindungen
 (meist Mate oder Spezi). Wer nach einem Hackerspace in Pfaffenhofen sucht, Interesse hat sich mit 
 Technikinteressierten auszutauschen und an verschiedenen Hard- & Softwareprojekten teilzunehmen wendet sich an 
 kontakt@hopfen.space
+
+![Symbolbild vom Hackerspace](./bunker-example-picture.jpg)
