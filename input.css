@@ -6,4 +6,14 @@
     .h-page-size {
         min-height: calc(100vh - 15rem);
     }
+
+    @keyframes foo {
+        from {
+            @apply justify-start;
+        }
+
+        to {
+            @apply justify-end;
+        }
+    }
 }
