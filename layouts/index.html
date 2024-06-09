@@ -1,16 +1,24 @@
 {{ define "main" }}
 
 <div
+  id="info-banner"
   class="flex items-center gap-x-6 bg-indigo-600 px-6 py-2.5 sm:px-3.5 sm:before:flex-1"
 >
   <p class="text-sm leading-6 text-white">
     <a href="/aktionsteams/computerwerkstatt/">
-      <strong class="font-semibold">Benötigen Sie Hilfe mit Computer, Tablet oder Handy?</strong>
-      &nbsp;Nehmen Sie mit uns Kontakt auf <span aria-hidden="true">&rarr;</span>
+      <strong class="font-semibold"
+        >Benötigen Sie Hilfe mit Computer, Tablet oder Handy?</strong
+      >
+      &nbsp;Nehmen Sie mit uns Kontakt auf
+      <span aria-hidden="true">&rarr;</span>
     </a>
   </p>
   <div class="flex flex-1 justify-end">
-    <button type="button" class="-m-3 p-3 focus-visible:outline-offset-[-4px]">
+    <button
+      id="info-banner-close"
+      type="button"
+      class="-m-3 p-3 focus-visible:outline-offset-[-4px]"
+    >
       <span class="sr-only">Dismiss</span>
       <svg
         class="h-5 w-5 text-white"
@@ -25,6 +33,15 @@
     </button>
   </div>
 </div>
+
+<script>
+  const banner = document.getElementById("info-banner");
+  const bannerCloseButton = document.getElementById("info-banner-close");
+
+  bannerCloseButton.addEventListener("click", () => {
+    banner.remove();
+  });
+</script>
 
 <div
   class="relative isolate overflow-hidden bg-gradient-to-b from-indigo-100/20 pt-14"
