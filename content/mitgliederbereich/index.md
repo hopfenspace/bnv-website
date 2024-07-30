@@ -5,6 +5,7 @@
 - [Mitgliedsantrag Unternehmen, Vereine und Behörden](firmen_mitgliedsantrag.pdf)
 - [Zusatzblatt Familienmitglieder](zusatzblatt_familienmitglieder.pdf)
 - [Änderungsantrag](./aenderungsantrag.pdf)
+- [Mail Einstellungen](./2024-07-30-Bürgernetz-Mail.pdf)
 
 ## Kontakt
 
