@@ -104,6 +104,41 @@
             </span>
           </a>
         </div>
+        <div class="mt-10 flex items-center gap-x-6">
+          <button
+            id="radio-button"
+            class="rounded-md bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+          >
+            Jetzt in unser Webradio reinhören
+          </button>
+          <audio
+            id="radio-audio"
+            class="hidden"
+            controls=""
+            autoplay=""
+          >
+            <source src="http://server7.streamserver24.com:12498/;stream.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+          <script>
+            (function() {
+              const btn = document.getElementById('radio-button');
+              const audio = document.getElementById('radio-audio');
+              let isPlaying = false;
+              btn.addEventListener('click', function() {
+                if(isPlaying) {
+                  audio.pause();
+                  btn.innerText = "Jetzt in unser Webradio reinhören";
+                  isPlaying = false;
+                } else {
+                  audio.play();
+                  btn.innerText = "Radio läuft, klicken zum pausieren";
+                  isPlaying = true;
+                }
+              })
+            })();
+          </script>
+        </div>
       </div>
       {{ with resources.Get "img/bnv-junges-team-back-cropped.png" }}
       <img
