@@ -18,4 +18,4 @@ Bank: Sparkasse Pfaffenhofen
 Das Bürgernetz Landkreis Pfaffenhofen ist ein gemeinnütziger Verein, eingetragen im Vereinsregister Nr. VR 20467 
 beim Amtsgericht Ingolstadt (Registergericht).
 
-Das Bürgernetz Pfaffenhofen ist Mitglied im Bürgernetzverband e.V.
+Das Bürgernetz Pfaffenhofen ist Mitglied im [Bürgernetzverband e.V](https://buerger.net).
